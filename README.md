@@ -1,7 +1,7 @@
 # Buscemi_Tracker
 Open CV Facial Recognition for Steve Buscemi in the Big Lebowski and other movies
 
-![alt text](https://imgur.com/a/UMl9vTp "Buscemi")
+![](http://i.imgur.com/zldZdt4.jpg "Buscemi")
 
 ## Files
 FaceDetect_01.pde is designed to capture faces from video that are identified by OpenCV and adds their coordinates to a .csv file
