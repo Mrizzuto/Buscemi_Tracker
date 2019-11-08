@@ -1,5 +1,5 @@
 # Buscemi_Tracker
-Open CV Facial Recognition for Steve Buscemi in the Big Lebowski and other movies
+Open CV Facial Recognition for Steve Buscemi in the Big Lebowski
 
 ![](http://i.imgur.com/zldZdt4.jpg "Buscemi")
 
